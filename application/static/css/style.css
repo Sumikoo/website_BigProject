@@ -1,0 +1,19 @@
+.jumbotron {
+    padding-top: 7rem;
+}
+
+.bg-me {
+    background-image: linear-gradient(#f5af19, #f12711);
+}
+
+.text-me {
+    text-transform: uppercase;
+    background: linear-gradient(#f5af19, #f12711);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "Poppins", sans-serif;
+}
+
+section {
+    padding-top: 4rem;
+}
